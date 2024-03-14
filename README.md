@@ -32,6 +32,8 @@ https://eips.ethereum.org/EIPS/eip-1
 https://kb.beaconcha.in/
 ## Ethereum PoS links
 https://www.attestant.io/posts/
+## Ethereum Book(WIP)
+https://eth2book.info/
 
 
 ## How to Use
